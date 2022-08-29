@@ -1,1 +1,34 @@
 /* write your override styles here */
+/* tag-1 is popsicle skull xx
+tag-2 is wavy arrows on and spray can cat on right
+tag-3 is block letters
+tag-4 asian character xx
+tag-5 green block xx
+tag-6 face xx
+tag-7 small person xx
+class parent
+*/
+
+#wall .tag-1 {
+    display: none;
+}
+
+div#wall #tag-2 {
+    display: none;
+}
+
+div#wall div#tag-3.slick {
+    display: none;
+}
+
+.parent{
+    display: none;
+}
+
+#wall .tag-6 {
+    display: none;
+}
+
+#wall .tag-7 {
+    display: none;
+}
